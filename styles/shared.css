@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background-color: rgb(233, 215, 207);
+  margin: 50px;
+}
+
+h1 {
+  font-family: "Source Code Pro", sans-serif;
+  color: rgb(46, 53, 57);
+  font-weight: 900;
+}
+
+h5 {
+  font-family: "Source Code Pro", sans-serif;
+  color: rgb(46, 53, 57);
+  font-weight: 900;
+}
+
+p {
+  font-family: "Source Code Pro", sans-serif;
+  color: gray;
+}
+
+a {
+  color: rgb(149, 6, 149);
+  text-decoration: none;
+  font-family: "Source Code Pro", sans-serif;
+}
+
+a:hover {
+  text-decoration: underline;
+}

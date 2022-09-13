@@ -1,0 +1,62 @@
+h1 {
+  margin: 12px 0;
+}
+
+header {
+  margin-bottom: 64px;
+}
+
+ol {
+  list-style: none;
+  width: 500px;
+  margin: 36px auto 0 auto;
+  padding: 0;
+}
+
+/* #description {
+  margin-bottom: 36px;
+} */
+
+header p {
+  margin-bottom: 36px;
+}
+
+a {
+  padding: 12px 48px;
+  background-color: rgb(167, 1, 78);
+  color: white;
+  border-radius: 4px;
+}
+
+a:hover {
+  text-decoration: none;
+  background-color: rgb(193, 66, 125);
+}
+
+li {
+  background-color: rgb(223, 136, 124);
+  border-radius: 6px;
+  margin: 20px;
+  padding: 16px;
+  font-family: "Source Code Pro", sans-serif;
+  font-weight: bold;
+  box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.3);
+}
+
+h3 {
+  color: rgb(78, 13, 5);
+}
+
+li > p {
+  margin: 12px;
+  color: rgb(0, 0, 22);
+}
+
+.daily-goal {
+  margin: 12px;
+  color: rgb(0, 0, 22);
+}
+
+.highlighted-goal {
+  background-color: rgb(255, 89, 71);
+}
